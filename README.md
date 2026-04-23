@@ -1,37 +1,138 @@
 <div align="center">
-  <h1>Hi, I'm Hamed! 👋</h1>
-  <p><strong>Data Scientist | Power BI | ML Engineering | SQL</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamed-goldoust)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hamed%20Goldoust&fontSize=40&fontColor=ffffff" alt="header" />
+
+  <br/>
+
+  <h3>
+    Data Scientist | SQL | Power BI  
+  </h3>
+
+  <p>🚀 Building data-driven solutions with Machine Learning, Big Data, and Business Intelligence</p>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/hamed-goldoust">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:hamed.goldoust1993@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://github.com/Clonerhamed">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </div>
 
 ---
 
-### 💻 Tech Stack:
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Hi, I'm **Hamed Goldoust**.  
+I’m a **Data Scientist** passionate about turning raw data into clear insights, smart dashboards, and scalable data solutions.
+
+Currently, I am focused on:
+
+- 📊 Building interactive reports and dashboards with **Power BI**
+- ⚡ Improving my **Big Data** skills with **PySpark** and **Databricks**
+- ☁️ Expanding my knowledge in **Azure Platform**
+- 🤖 Developing practical machine learning solutions with **Python** and **PyTorch**
+- 🗄️ Working with data using **SQL**, **Pandas**, and **NumPy**
+
+---
+
+## 🎯 Current Focus
+
+- Learning and practicing **PySpark** for large-scale data processing
+- Exploring **Databricks** workflows for modern data engineering and analytics
+- Creating more professional and insightful **Power BI** dashboards
+- Strengthening my skills in **Azure Machine Learning** and cloud-based data science
+- Building portfolio projects that combine **analytics, ML, and big data**
 
 ---
 
-### 🐍 My Contributions in Motion:
+## 🚀 Featured Areas
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Clonerhamed/Clonerhamed/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+| Area | What I Work On | Tools |
+|---|---|---|
+| **Data Science** | Data cleaning, analysis, feature engineering, and predictive modeling | `Python` `Pandas` `NumPy` `Scikit-Learn` |
+| **Machine Learning** | Building and evaluating ML models for real-world problems | `PyTorch` `Scikit-Learn` `Jupyter` |
+| **Big Data** | Processing large datasets and learning distributed data workflows | `PySpark` `Databricks` |
+| **Business Intelligence** | Designing dashboards and KPI reports for decision-making | `Power BI` `SQL` |
+| **Cloud & Platforms** | Exploring cloud-based data science and deployment workflows | `Azure` `AWS` `Docker` |
+
+</div>
+
+---
+
+### 🐍 My Contributions in Motion
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Clonerhamed/Clonerhamed/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Clonerhamed&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Clonerhamed&theme=dark&layout=compact" alt="Top Languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clonerhamed&theme=dark" alt="GitHub Streak" />
-</p>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clonerhamed&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clonerhamed&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clonerhamed&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clonerhamed&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+[![Main Skills](https://skillicons.dev/icons?i=vscode,python,pytorch,aws,azure,docker,mongodb,git)](https://skillicons.dev)
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Portfolio Vision
+
+I’m building a portfolio that reflects my journey across:
+
+- **Data Analysis**
+- **Machine Learning**
+- **Big Data Engineering**
+- **Power BI Reporting**
+- **Azure Data Science**
+
+My goal is to create projects that are not only technically strong, but also useful for solving real business problems.
+
+---
+
