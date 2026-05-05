@@ -77,15 +77,19 @@ Currently, I am focused on:
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clonerhamed&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+  <!-- Mirror server for better reliability -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Clonerhamed&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
 </td>
 <td width="50%">
+  <!-- Streak stats usually stay on this server -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clonerhamed&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
@@ -93,7 +97,8 @@ Currently, I am focused on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clonerhamed&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  <!-- Mirror server for Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Clonerhamed&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
