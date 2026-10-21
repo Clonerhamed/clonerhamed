@@ -8,7 +8,7 @@
 
   <br/>
 
-  <h2>Data Scientist | Data Engineering | Data Analyst | Machine Learning</h2>
+  <h2>Data Scientist | Data Engineering | Data Analyst </h2>
 
   <p>
     🚀 Building data-driven solutions with Machine Learning, Big Data,
